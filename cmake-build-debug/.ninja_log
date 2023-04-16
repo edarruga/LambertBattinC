@@ -1,0 +1,7 @@
+# ninja log v5
+1	503	7013020700000000	build.ninja	86af4e530057e215
+5	735	7012162260000000	CMakeFiles/untitled1.dir/vector.cpp.obj	48d1a92df8dbbe1e
+35	1024	7012140740000000	CMakeFiles/untitled1.dir/seebatt.cpp.obj	856ef4c76a15cb08
+6	1183	7013017180000000	CMakeFiles/untitled1.dir/testUnitarios.cpp.obj	c4393b61ced064f2
+682	905	7012127980000000	CMakeFiles/untitled1.dir/seebattk.cpp.obj	4476134bb2061388
+1183	1811	7013017180000000	untitled1.exe	7a5379e65eb5355c

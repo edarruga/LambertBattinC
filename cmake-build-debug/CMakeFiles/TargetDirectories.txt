@@ -1,0 +1,3 @@
+H:/Universidad UR/Tercer Curso/Segundo Semestre/Taller Transversal 1/Practica 3/Miniproyecto/Lambert Battin C++/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir
+H:/Universidad UR/Tercer Curso/Segundo Semestre/Taller Transversal 1/Practica 3/Miniproyecto/Lambert Battin C++/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/Universidad UR/Tercer Curso/Segundo Semestre/Taller Transversal 1/Practica 3/Miniproyecto/Lambert Battin C++/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/Universidad UR/Tercer Curso/Segundo Semestre/Taller Transversal 1/Practica 3/Miniproyecto/Lambert Battin C++/untitled1/lambertbattin.h
+
+H:/Universidad UR/Tercer Curso/Segundo Semestre/Taller Transversal 1/Practica 3/Miniproyecto/Lambert Battin C++/untitled1/seebatt.h
+
+H:/Universidad UR/Tercer Curso/Segundo Semestre/Taller Transversal 1/Practica 3/Miniproyecto/Lambert Battin C++/untitled1/seebattk.h
+
+H:/Universidad UR/Tercer Curso/Segundo Semestre/Taller Transversal 1/Practica 3/Miniproyecto/Lambert Battin C++/untitled1/testUnitarios.cpp
+iostream
+-
+cmath
+-
+vector.h
+H:/Universidad UR/Tercer Curso/Segundo Semestre/Taller Transversal 1/Practica 3/Miniproyecto/Lambert Battin C++/untitled1/vector.h
+seebatt.h
+H:/Universidad UR/Tercer Curso/Segundo Semestre/Taller Transversal 1/Practica 3/Miniproyecto/Lambert Battin C++/untitled1/seebatt.h
+seebattk.h
+H:/Universidad UR/Tercer Curso/Segundo Semestre/Taller Transversal 1/Practica 3/Miniproyecto/Lambert Battin C++/untitled1/seebattk.h
+lambertbattin.h
+H:/Universidad UR/Tercer Curso/Segundo Semestre/Taller Transversal 1/Practica 3/Miniproyecto/Lambert Battin C++/untitled1/lambertbattin.h
+
+H:/Universidad UR/Tercer Curso/Segundo Semestre/Taller Transversal 1/Practica 3/Miniproyecto/Lambert Battin C++/untitled1/vector.h
+
